@@ -1,7 +1,22 @@
 
 
 * {
-    margin-top: auto;
+    margin-top: 1em;
     padding: 0%;
+    justify-content: center;
 
+}
+
+class .campo {
+    margin-inline: 2em;
+    font-family: arial;
+    justify-content: center;
+    height: 5em;
+
+}
+
+label class .escrita{
+    font-size: 5px;
+    justify-content: center;
+    margin-top: auto;
 }
